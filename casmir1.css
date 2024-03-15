@@ -1,0 +1,36 @@
+
+
+.main-section{
+ background:url("background.png");
+  background-size:cover;
+ padding-left: 20px;
+ padding-right:20px;
+ padding-top: 50px;
+ padding-bottom:50px;
+ text-align:center;
+ color :white;
+}
+#field{
+    background:red;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom:20px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    border-radius:10px;
+}
+  
+  
+
+
+#main{
+  background: White;
+  font-size:25px ;
+  padding-top:15px;
+  padding-left: 110px;
+  padding-right:110px ;
+  padding-bottom:15px;
+  border:2px solid white;
+  border-radius: 30px;
+  margin-bottom:20px;
+}
