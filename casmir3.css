@@ -1,3 +1,7 @@
+body{
+  background:url("background.png");
+}
+
 .list{
   display:flex;
   justify-content:end;
@@ -38,10 +42,12 @@
   margin-bottom:100px;
 }
 #home{ 
+  display:flex;
+  justify-content: space-evenly;
   text-align: center;
   margin-right:10px;
   margin-top:20px;
-  margin-bottom:200px;
+  margin-bottom:20px;
   border:2px solid slategray;
   border-radius: 10px;
   padding-top:5px;
